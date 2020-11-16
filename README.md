@@ -3,5 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_jafshin_)](https://twitter.com/_jafshin_)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jxafshin@gmail.com)](mailto:jxafshin@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafshin&show_icons=true&theme=vue&layout=compact)](https://github.com/jafshin/github-readme-stats)
-![jafshin's github stats](https://github-readme-stats.vercel.app/api?username=jafshin&count_private=true&show_icons=true&theme=vue&hide=stars,prs)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafshin&show_icons=true&line_height=21&count_private=true&show_icons=true&theme=vue&hide=stars,prs" alt="jafshin's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafshin&theme=vue&line_height=27&layout=compact" />
+</p>
